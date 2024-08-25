@@ -58,5 +58,9 @@ namex==0.0.8
 narwhals==1.4.1
 nest-asyncio==1.6.0
 numba==0.60.0
+numpy>=1.26.0
+setuptools==68.0.0
+tensorflow==2.13.0  # Make sure this line is included
+
 numpy>=1.26.0  # Updated numpy version
 
